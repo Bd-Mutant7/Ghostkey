@@ -2,6 +2,7 @@
 
 > Find exposed API keys, tokens & credentials in your codebase — before attackers do.
 
+[![Support](https://img.shields.io/badge/Support-Paystack-00C3F7?style=for-the-badge&logo=paypal&logoColor=white)](https://paystack.shop/pay/bd-mutant7)
 ![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js)
 ![Vercel](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel)
 ![License](https://img.shields.io/badge/license-MIT-blue)
